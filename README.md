@@ -7,5 +7,5 @@ My favourites?
 
 - **Doing Science with Python**: this one is huge, almost a book... and it is still 'work-in-progress' but it contains not only the basics about data containers, or basic algorithms, but also advance hash functions or some functional programming stuff
 
-- **Two-Factor model**: this one is more technical, from the mathematical point of view, but quite interesting if you are working in commodities modelling, derivatives pricing or risk-management. This one is the simplest possible version, that made the equivalence between Black 76 and the Two-Factor modelfor forward contracts . I will update it soon, with a  more object-oriented version. Stay tune. If you want to have the full object-oriented version, with *robust calibration* using *Semidefinite Programming* and unit-testing, contact me.
+- **Two-Factor model**: this one is more technical, from the mathematical point of view, but quite interesting if you are working in commodities modelling, derivatives pricing or risk-management. This one is the simplest possible version, that made the equivalence between Black 76 and the Two-Factor modelfor forward contracts . I will update it soon, with a  more object-oriented version. Stay tune. If you want to have the full object-oriented version, with *Robust Calibration* of the SDE using *Semidefinite Programming* and unit-testing, contact me.
 
