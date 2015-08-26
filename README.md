@@ -9,3 +9,4 @@ My favourites?
 
 - **Two-Factor model**: this one is more technical, from the mathematical point of view, but quite interesting if you are working in commodities modelling, derivatives pricing or risk-management. This one is the simplest possible version, that made the equivalence between Black 76 and the Two-Factor model for forward contracts . I will update it soon, with a  more object-oriented version. Stay tune. If you want to have the full object-oriented version, with *Robust Calibration* of the SDE using *Semidefinite Programming* and unit-testing, contact me.
 
+- ... and if you are interested in Financial Engineering, you will find interesting the notebook about American, Asian or Spread options, VaR or Swing options... be my guest and serve yourself 
