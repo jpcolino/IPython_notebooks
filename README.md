@@ -3,7 +3,7 @@ Set of iPython (Jupyter) notebooks about Python, Reactive Programming, Statistic
 
 My favourites?
 
-- **Algorithmic Problems in Python**: It has more than 40 algorithmic problems about generators, list comprehension, map/reduce/filter problems, decorators... but more specifically about Python, maybe you find intriguing the notebooks about **Decorators, Closures and Wrappers** or the one about **Iterables, Generetors and Yield**. Hope you like.
+- **Algorithmic Problems in Python**: It has more than 40 algorithmic problems about generators, list comprehension, map/reduce/filter problems, decorators, regular expressions... but more specifically about Python, maybe you find intriguing the notebooks about **Decorators, Closures and Wrappers** or the one about **Iterables, Generetors and Yield**. Hope you like.
 
 - **Doing Science with Python**: this one is huge, almost a book... and it is still 'work-in-progress' but it contains not only the basics about data containers, or basic algorithms, but also advance hash functions or some functional programming stuff
 
