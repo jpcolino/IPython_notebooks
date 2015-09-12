@@ -5,7 +5,9 @@ My favourites?
 
 - **Algorithmic Problems in Python**: *(Computer Science)* It has more than 45 algorithmic problems about generators, list comprehension, map/reduce/filter problems, decorators, regular expressions... but more specifically about Python, maybe you find intriguing the notebooks about **Decorators, Closures and Wrappers** or the one about **Iterables, Generetors and Yield**. Hope you like.
 
-- **Doing Science with Python**: *(Statistics)* this one is huge, almost a book... and it is still 'work-in-progress' but it contains not only the basics about data containers, or basic algorithms, but also advance hash functions or some functional programming stuff. If you want to go deeper in **Statistics Techniques for Big Data**, maybe you should have a look into the **PCA for Big Data** or into **Regression Techniques for Big Data** notebooks.
+- **Doing Science with Python**: *(Python programming)* this one is huge, almost a book... and it is still 'work-in-progress' but it contains not only the basics about data containers, or basic algorithms, but also advance hash functions or some functional programming stuff. 
+- 
+- **Doing Statistics with Python**: *(Statisitics)* Another huge notebook, in fact, I wrote it thinking in a free eBook, but it is quite general in terms of statistics.  If you want to go deeper in **Statistics Techniques for Big Data**, maybe you should have a look into the **PCA for Big Data** or into **Regression Techniques for Big Data** notebooks.
 
 - **Two-Factor Model**: *(Stochastic Modelling)* this one is more technical, from the mathematical point of view, but quite interesting if you are working in *commodities modelling, derivatives pricing or risk-management*. This one is the simplest possible version, that made the equivalence between Black-76 and the Two-Factor Model for forward contracts. I will update it soon, with a  more object-oriented version. Stay tune. If you want to have the full object-oriented version, with *Robust Calibration* of the SDE using *Semidefinite Programming* and unit-testing, contact me.
 
