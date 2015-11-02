@@ -1,5 +1,5 @@
 ****
-# **IPython_notebooks**
+# IPython_notebooks
 ****
 Set of iPython (Jupyter) notebooks about Python, Reactive Programming, Statistics, Finance, Data Bases, Optimization, Science in general, Machine Learning, Time-Series... and more
 
