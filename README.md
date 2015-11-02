@@ -18,10 +18,10 @@ My favourites?
 - ... and if you are interested in **Financial Engineering**, you will find interesting the notebooks about   
   - **European Option Class in Python**, 
   - **American Options pricing using LSMC**, 
-  - **Asian options pricing using MC with Control Variate**, 
-  - **JumpDiffusion option pricing**
-  - **Spread options pricing**, 
-  - **Market Risk and VaR**, 
+  - **Asian Options pricing using MC with Control Variate**, 
+  - **JumpDiffusion Option pricing**
+  - **Spread Options pricing**, 
+  - **Market-Risk and VaR**, 
   - or about **Swing options**... pls, be my guest, and serve yourself. Have fun.
 
 
