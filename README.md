@@ -19,6 +19,7 @@ My favourites?
   - **European Option Class in Python**, 
   - **American Options pricing using LSMC**, 
   - **Asian options pricing using MC with Control Variate**, 
+  - **JumpDifussion option pricing**
   - **Spread options pricing**, 
   - **Market Risk and VaR**, 
   - or about **Swing options**... pls, be my guest, and serve yourself. Have fun.
