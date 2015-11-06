@@ -1,6 +1,6 @@
 ****
 # IPython_notebooks
-<p style="text-align: right"><i>Jesus Perez Colino<br>First version: Oct 2014<br>Last revision: Nov 2015</i></p>
+<p style="text-align: right"><i>Jesus Perez Colino<br>First version: Oct 2013<br>Last revision: Nov 2015</i></p>
 ****
 Set of iPython (Jupyter) notebooks about Python, Reactive Programming, Statistics, Finance, Data Bases, Optimization, Science in general, Machine Learning, Time-Series... and more
 
