@@ -1,5 +1,6 @@
 ****
 # IPython_notebooks
+<p style="text-align: right"><i>Jesus Perez Colino<br>First version: Oct 2014<br>Last revision: Nov 2015</i></p>
 ****
 Set of iPython (Jupyter) notebooks about Python, Reactive Programming, Statistics, Finance, Data Bases, Optimization, Science in general, Machine Learning, Time-Series... and more
 
@@ -28,8 +29,7 @@ My favourites?
 
 
 ****
-<p style="text-align: right">
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">  <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a> <span style="font: 60% Arial,sans-serif; color:#0783B6;"> <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</span></a></p>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">  <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a> <span style="font: 60% Arial,sans-serif; color:#0783B6;"> <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</span></a>.
 
 ****
 
