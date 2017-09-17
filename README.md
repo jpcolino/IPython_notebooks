@@ -2,6 +2,7 @@
 # IPython_notebooks
 <p style="text-align: right"><i>Jesus Perez Colino</i></p>
 ****
+
 Set of iPython (Jupyter) notebooks about Python, Reactive Programming, Statistics, Finance, Data Bases, Optimization, Science in general, Machine Learning, Time-Series... and more
 
 My favourites?
