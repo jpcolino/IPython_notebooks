@@ -11,7 +11,7 @@ My favourites?
 
 - **Doing Science with Python**: *(Python programming)* this one is huge, almost a book... and it is still 'work-in-progress' but it contains not only the basics about data-containers, or basic algorithms, but also advance hash-functions and functional programming... but more specifically, or advanced in Python, maybe you find intriguing the notebooks about **Decorators, Closures and Wrappers** or the one about **Iterables, Generetors and Yield**, or related with **High Performance Computation (HPC)** check **HPC Cython vs. Multiprocessing** out. Hope you like. 
 
-- **Doing Statistics with Python**: *(Statisitics)* Another huge notebook, in fact, I wrote it thinking in a free eBook, but it is quite general in terms of statistics.  
+- **Doing Statistics with Python**: *(Statisitics and Machine Learning)* Another huge notebook, in fact, I wrote it thinking in a free eBook, but it is quite general in terms of statistics.  
   - If you want to go deeper in **Statistics Techniques for Big Data**, maybe you should have a look into the **PCA for Big Data** or into **Regression Techniques for Big Data** notebooks, where I am using **PySpark** and **Apache Spark**. 
   - If you are working in **Machine Learning** with **Scikit-learn**, have a look into the SVM notebooks (e.g. **Cross Validation in SVM** or **Classification Metrics with SVM**) or, if you are interested in knowing how to store in **MongoDB** your input/output or model results, have a look to the code of **MongoDB, Numpy and Scikit-learn** notebook. 
 
