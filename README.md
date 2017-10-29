@@ -13,7 +13,7 @@ My favourites?
 
 - **Doing Statistics with Python**: *(Statisitics)* Another huge notebook, in fact, I wrote it thinking in a free eBook, but it is quite general in terms of statistics.  
   - If you want to go deeper in **Statistics Techniques for Big Data**, maybe you should have a look into the **PCA for Big Data** or into **Regression Techniques for Big Data** notebooks, where I am using **PySpark** and **Apache Spark**. 
-  - If you are working with **Scikit-learn**, and you would be interested in knowing how to store in MongoDB your input/output or model results, have a look to the code of **MongoDB, Numpy and Scikit-learn** notebook. 
+  - If you are working in **Machine Learning** with **Scikit-learn**, have a look into the SVM notebooks (**Cross Validation in SVM** or **Classification Metrics with SVM**) or if you are interested in knowing how to store in **MongoDB** your input/output or model results, have a look to the code of **MongoDB, Numpy and Scikit-learn** notebook. 
 
 - **Two-Factor Model**: *(Stochastic Modelling)* this one is more technical, from the mathematical point of view, but quite interesting if you are working in *commodities modelling, derivatives pricing*, or *risk-management*. This one is the simplest possible version, that made the equivalence between Black-76 and the Two-Factor Model for forward contracts. I will update it soon, with a  more object-oriented version. Stay tune. If you want to have the full object-oriented version, with *Robust Calibration* of the SDE using *Semidefinite Programming* and unit-testing, contact me.
 
