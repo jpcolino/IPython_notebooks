@@ -7,6 +7,8 @@
 
 Set of Jupyter (iPython) notebooks (and few pdf-presentations) about things that I am interested on, like *Computer Science*, *Statistics and Machine-Learning*, *Artificial Intelligence (AI)*, *Financial Engineering*, *Optimization*, *Stochastic Modelling*, *Time-Series forecasting*, *Science in general*... and more.
 
+
+
 My favourites?
 
 - [**Algorithmic Problems in Python**](https://github.com/jpcolino/IPython_notebooks/blob/master/Algorithmic%20Problems%20in%20Python.ipynb): *(Computer Science)* It contains more than 60 algorithm problems about generators, list-comprehension, map/reduce/filter problems, decorators, regular expressions, simulations, classes... This is still a *work-in-progress*, but feel free to have a look, and enjoy.
