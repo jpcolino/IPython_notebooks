@@ -23,11 +23,11 @@ My favourites?
 |---|
 |[European Option Class in Python](https://github.com/jpcolino/IPython_notebooks/blob/master/European%20Option%20Class%20in%20Python.ipynb)|
 |[American Options pricing using LSMC](https://github.com/jpcolino/IPython_notebooks/blob/master/Least%20Square%20Monte%20Carlo%20Implementation%20in%20a%20Python%20Class.ipynb)|
-|**Asian Options pricing using MC with Control Variate**|
-|**JumpDiffusion Option pricing**|
-|**Spread Options pricing**|
-|**Market-Risk and VaR**|
-|**Swing options**|
+|[Asian Options pricing using MC with Control Variate](https://github.com/jpcolino/IPython_notebooks/blob/master/Asian%20Option%20valuation%20with%20MC%20and%20Control%20Variate.ipynb)|
+|[JumpDiffusion Option pricing](https://github.com/jpcolino/IPython_notebooks/blob/master/A%20JumpDiffusion%20class%20for%20simulation.ipynb)|
+|[Spread Options pricing](https://github.com/jpcolino/IPython_notebooks/blob/master/Spread%20Options.ipynb)|
+|[Market-Risk and VaR](https://github.com/jpcolino/IPython_notebooks/blob/master/Market%20Risk%20and%20VaR%20Estimation%20Methodologies.ipynb)|
+|[Swing options](https://github.com/jpcolino/IPython_notebooks/blob/master/Swing%20options%20valuation%20with%20jumps.pdf)|
 
 ... pls, be my guest, and serve yourself. Have fun.
 
