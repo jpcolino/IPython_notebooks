@@ -34,7 +34,10 @@ My favourites?
 |[Market-Risk and VaR](https://github.com/jpcolino/IPython_notebooks/blob/master/Market%20Risk%20and%20VaR%20Estimation%20Methodologies.ipynb)|
 |[Swing options](https://github.com/jpcolino/IPython_notebooks/blob/master/Swing%20options%20valuation%20with%20jumps.pdf)|
 
-among others... pls, be my guest, and serve yourself. Have fun.
+among others... pls, be my guest, and serve yourself. 
+
+Have fun.
+jpc
 
 
 
