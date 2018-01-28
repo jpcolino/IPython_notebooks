@@ -21,14 +21,15 @@ My favourites?
 
 |Financial Engineering|
 |---|
-|**European Option Class in Python**|
-|**American Options pricing using LSMC**|
+|[European Option Class in Python](https://github.com/jpcolino/IPython_notebooks/blob/master/European%20Option%20Class%20in%20Python.ipynb)|
+|[American Options pricing using LSMC](https://github.com/jpcolino/IPython_notebooks/blob/master/Least%20Square%20Monte%20Carlo%20Implementation%20in%20a%20Python%20Class.ipynb)|
 |**Asian Options pricing using MC with Control Variate**|
 |**JumpDiffusion Option pricing**|
 |**Spread Options pricing**|
 |**Market-Risk and VaR**|
+|**Swing options**|
 
-  - or about **Swing options**... pls, be my guest, and serve yourself. Have fun.
+... pls, be my guest, and serve yourself. Have fun.
 
 
 
