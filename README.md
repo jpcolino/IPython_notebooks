@@ -5,7 +5,7 @@
 [*Jesus Perez Colino*](https://www.linkedin.com/in/jesusperezcolino/)
 
 
-Set of Jupyter (iPython) notebooks (and few pdf-presentations) about things that I am interested on, like *Python*, *Statistics and Machine-Learning*, *Artificial Intelligence (AI)*, *Financial Engineering*, *Optimization*, *Science in general*, *Time-Series*... and more.
+Set of Jupyter (iPython) notebooks (and few pdf-presentations) about things that I am interested on, like *Computer Science*, *Statistics and Machine-Learning*, *Artificial Intelligence (AI)*, *Financial Engineering*, *Optimization*, *Science in general*, *Modelling and Time-Series forecasting*... and more.
 
 My favourites?
 
