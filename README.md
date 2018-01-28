@@ -19,6 +19,8 @@ My favourites?
 
 - [**Two-Factor Model**](https://github.com/jpcolino/IPython_notebooks/blob/master/Two_Factor_Model-SimpleVersion.ipynb): *(Stochastic Modelling)* this one is more technical, from the mathematical point of view, but quite interesting if you are working in *commodities modelling, derivatives pricing*, or *risk-management*. This one is the simplest possible version, that made the equivalence between Black-76 and the Two-Factor Model for forward contracts. I will update it soon, with a  more object-oriented version. Stay tuned. If you want to have the full object-oriented version, with *Robust Calibration* of the SDE using *Semidefinite Programming* and unit-testing, contact me.
 
+- **Just for FUN:** If you like Astronomy like me, check this out: [Web-scrapping NASA Astronomy Picture](https://github.com/jpcolino/IPython_notebooks/blob/master/Web-scrapping%20NASA%20Astronomy%20Picture.ipynb)
+
 - ... and if you are interested in **Financial Engineering**, you will find interesting the notebooks about:
 
 |**Financial Engineering**|
