@@ -1,6 +1,6 @@
 ******
 # IPython_notebooks
-******
+
 
 [*Jesus Perez Colino*](https://www.linkedin.com/in/jesusperezcolino/)
 
