@@ -17,13 +17,15 @@ My favourites?
 
 - **Two-Factor Model**: *(Stochastic Modelling)* this one is more technical, from the mathematical point of view, but quite interesting if you are working in *commodities modelling, derivatives pricing*, or *risk-management*. This one is the simplest possible version, that made the equivalence between Black-76 and the Two-Factor Model for forward contracts. I will update it soon, with a  more object-oriented version. Stay tuned. If you want to have the full object-oriented version, with *Robust Calibration* of the SDE using *Semidefinite Programming* and unit-testing, contact me.
 
-- ... and if you are interested in **Financial Engineering**, you will find interesting the notebooks about   
-  - **European Option Class in Python**, 
-  - **American Options pricing using LSMC**, 
-  - **Asian Options pricing using MC with Control Variate**, 
-  - **JumpDiffusion Option pricing**,
-  - **Spread Options pricing**, 
-  - **Market-Risk and VaR**, 
+- ... and if you are interested in **Financial Engineering**, you will find interesting the notebooks about:
+|Financial Engineering|
+|---|
+|**European Option Class in Python**|
+|**American Options pricing using LSMC**|
+|**Asian Options pricing using MC with Control Variate**|
+|**JumpDiffusion Option pricing**|
+|**Spread Options pricing**|
+|**Market-Risk and VaR**|
   - or about **Swing options**... pls, be my guest, and serve yourself. Have fun.
 
 
