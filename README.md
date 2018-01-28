@@ -1,6 +1,6 @@
 ****
 # IPython_notebooks
-<p style="text-align: left"><i>Jesus Perez Colino</i></p>
+<p style="text-align: left"><i>[Jesus Perez Colino](https://www.linkedin.com/in/jesusperezcolino/)</i></p>
 
 
 Set of iPython (Jupyter) notebooks about things that I am interested like *Python*, *Statistics and Machine-Learning*, *Financial Engineering*, *Optimization*, *Science in general*, *Time-Series*... and more
