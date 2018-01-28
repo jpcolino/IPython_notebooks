@@ -41,6 +41,4 @@ My favourites?
 
 
 
-<a href="https://de.linkedin.com/pub/jesus-perez-colino/3/80a/9b5" style="text-decoration:none;"><span style="font: 60% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Jesus Perez Colino's LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View Jesus Perez Colino's profile</span></a>
-
 ******
