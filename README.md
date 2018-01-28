@@ -7,7 +7,7 @@ Set of iPython (Jupyter) notebooks about Python, Reactive Programming, Statistic
 
 My favourites?
 
-- **Algorithmic Problems in Python**: *(Computer Science)* It contains more than 50 algorithmic problems about generators, list comprehension, map/reduce/filter problems, decorators, regular expressions... This is still a *work-in-progress*, but feel free to have a look, and enjoy.
+- [**Algorithmic Problems in Python**](https://github.com/jpcolino/IPython_notebooks/blob/master/Algorithmic%20Problems%20in%20Python.ipynb): *(Computer Science)* It contains more than 60 algorithm problems about generators, list-comprehension, map/reduce/filter problems, decorators, regular expressions, simulations, classes... This is still a *work-in-progress*, but feel free to have a look, and enjoy.
 
 - **Doing Science with Python**: *(Python programming)* this one is huge, almost a book... and it is still 'work-in-progress' but it contains not only the basics about data-containers, or basic algorithms, but also advance hash-functions and functional programming... but more specifically, or advanced in Python, maybe you find intriguing the notebooks about **Decorators, Closures and Wrappers** or the one about **Iterables, Generetors and Yield**, or related with **High Performance Computation (HPC)** check **HPC Cython vs. Multiprocessing** out. Hope you like. 
 
@@ -15,11 +15,11 @@ My favourites?
   - If you want to go deeper in **Statistics Techniques for Big Data**, maybe you should have a look into the **PCA for Big Data** or into **Regression Techniques for Big Data** notebooks, where I am using **PySpark** and **Apache Spark**. 
   - If you are working in **Machine Learning** with **Scikit-learn**, have a look into the SVM notebooks (e.g. **Cross Validation in SVM** or **Classification Metrics with SVM**) or, if you are interested in knowing how to store in **MongoDB** your input/output or model results, have a look to the code of **MongoDB, Numpy and Scikit-learn** notebook. 
 
-- **Two-Factor Model**: *(Stochastic Modelling)* this one is more technical, from the mathematical point of view, but quite interesting if you are working in *commodities modelling, derivatives pricing*, or *risk-management*. This one is the simplest possible version, that made the equivalence between Black-76 and the Two-Factor Model for forward contracts. I will update it soon, with a  more object-oriented version. Stay tuned. If you want to have the full object-oriented version, with *Robust Calibration* of the SDE using *Semidefinite Programming* and unit-testing, contact me.
+- [**Two-Factor Model**](https://github.com/jpcolino/IPython_notebooks/blob/master/Two_Factor_Model-SimpleVersion.ipynb): *(Stochastic Modelling)* this one is more technical, from the mathematical point of view, but quite interesting if you are working in *commodities modelling, derivatives pricing*, or *risk-management*. This one is the simplest possible version, that made the equivalence between Black-76 and the Two-Factor Model for forward contracts. I will update it soon, with a  more object-oriented version. Stay tuned. If you want to have the full object-oriented version, with *Robust Calibration* of the SDE using *Semidefinite Programming* and unit-testing, contact me.
 
 - ... and if you are interested in **Financial Engineering**, you will find interesting the notebooks about:
 
-|Financial Engineering|
+|**Financial Engineering**|
 |---|
 |[European Option Class in Python](https://github.com/jpcolino/IPython_notebooks/blob/master/European%20Option%20Class%20in%20Python.ipynb)|
 |[American Options pricing using LSMC](https://github.com/jpcolino/IPython_notebooks/blob/master/Least%20Square%20Monte%20Carlo%20Implementation%20in%20a%20Python%20Class.ipynb)|
