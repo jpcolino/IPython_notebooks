@@ -36,8 +36,9 @@ My favourites?
 
 among others... pls, be my guest, and serve yourself. 
 
-Have fun.
-jpc
+Have fun!
+
+[jpc](https://www.linkedin.com/in/jesusperezcolino/)
 
 
 
