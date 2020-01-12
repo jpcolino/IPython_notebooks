@@ -7,10 +7,10 @@
 
 Set of Jupyter (iPython) notebooks (and few pdf-presentations) about things that I am interested on, like *Computer Science*, *Statistics and Machine-Learning*, *Artificial Intelligence (AI)*, *Financial Engineering*, *Optimization*, *Stochastic Modelling*, *Time-Series forecasting*, *Science in general*... and more.
 
-- **NEW:** [**Neural Networks (RNN/LSTM/GRU) for time-series forecasting in Commodities Markets using TensorFlow/Keras**](https://github.com/jpcolino/IPython_notebooks/blob/master/RNN_LSTM_GRU_for_Hedge_Funds%20_flows.ipynb) 
+- **NEW:** [**Neural Networks (RNN/LSTM/GRU) for time-series forecasting in Commodities Markets using TensorFlow/Keras** ](https://github.com/jpcolino/IPython_notebooks/blob/master/RNN_LSTM_GRU_for_Hedge_Funds%20_flows.ipynb) 
 (Here, just the simplest of the univariate versions. If you are interested in the deep-LSTM multivariate version, contact [me](https://www.linkedin.com/in/jesusperezcolino/))
 
-- **NEW:** [**Auto-Machine Learning Model Selection using GridSearchCV**](https://github.com/jpcolino/IPython_notebooks/blob/master/Automatic%20Machine%20Learning.ipynb) It has some interesting ideas I am working on... hope you like. If you want to know how to go further, please contact [me](https://www.linkedin.com/in/jesusperezcolino/))
+- **NEW:** [**Auto-Machine Learning Model Selection using GridSearchCV**:](https://github.com/jpcolino/IPython_notebooks/blob/master/Automatic%20Machine%20Learning.ipynb) It has some interesting ideas I am working on... hope you like. If you want to know how to go further, please contact [me](https://www.linkedin.com/in/jesusperezcolino/)
 
 My favourites?
 
